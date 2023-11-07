@@ -1,0 +1,20 @@
+html{
+    background:darkgrey
+}
+.som-text{
+    color:black;
+    font-size: 40pt;
+}
+h1{
+    background:lightgrey
+}
+h2{
+    color:black;
+}
+ul{
+    color:blue;
+}
+
+ol{
+    color:blue;
+}
